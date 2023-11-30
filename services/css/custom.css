@@ -4794,7 +4794,7 @@ body:not(.page-index) .page-header {
     text-decoration: none;
     padding: 15px 37px;
     display: block;
-    color: #3d4c58;
+    color: #7760a5;
     text-transform: uppercase;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -4853,6 +4853,11 @@ body:not(.page-index) .page-header {
     display: block;
     color: #4b5b68;
     text-transform: uppercase;
+    text-decoration: none;
+  }
+
+  .text-light {
+    color: white;
     text-decoration: none;
   }
 
